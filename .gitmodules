@@ -1,0 +1,3 @@
+[submodule "content/leg"]
+	path = content/leg
+	url = https://github.com/stangao/leg.git
